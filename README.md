@@ -6,3 +6,4 @@
 ### 4. Stock predict
 ### 5. Rock Scissor Paper
 ### 6. Lyricist
+### 7. Face_Sticker
