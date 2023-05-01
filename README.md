@@ -7,3 +7,7 @@
 ### 5. Rock Scissor Paper
 ### 6. Lyricist
 ### 7. Face_Sticker
+### 8. Text feeling analyst
+### 9. Portrait photograph
+### 10. Translater
+### 11. GAN
